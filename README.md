@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @KRFM
+👋 **Hello, I am a porject coordinator diving into Python programming** 
+## About Me - Professional Goals
+- Remote Working 
+- Ability to own the dev work on my [website](https://thefitzkitchen.com/)
+- 
+## About Me - Personal Interests
 - 👀 I’m interested in working remotely
 - 🌱 I’m currently learning python
 - 📫 Reach me @ kristymonroe29@gmail.com
