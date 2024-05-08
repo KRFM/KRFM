@@ -1,11 +1,11 @@
-👋 **Hello, I am a porject coordinator diving into Python programming** 
+👋 **Hello, I am a project manager diving into Python programming** 
 ## Professional Goals
 - 💻Remote working
 - ✍ Ability to own the dev work on my [website](https://thefitzkitchen.com/)
-- 🧠 Utilize my programming knowledge in any role 
+- 🧠 Utilize my programming and Agile knowledge in any role
 
 ## Personal Interests
-- 🥣✍ Food blogging / recipe creation
+- 🥣✍ Food blogging/recipe creation
 - ✈🍜 Learning about other cultures through travel & food
 - 🥾🏕 Hiking & camping
 
